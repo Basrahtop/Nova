@@ -1,0 +1,8 @@
+
+name = "contracts/nova_contracts"
+version = "0.0.1"
+license = "MIT"
+description = "Aiken smart contracts for the NOVA AI-powered tutoring platform."
+
+dependencies = []
+

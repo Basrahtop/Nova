@@ -1,0 +1,14 @@
+{
+  "preamble": {
+    "title": "contracts/nova_contracts",
+    "description": "Aiken smart contracts for the NOVA AI-powered tutoring platform.",
+    "version": "0.0.1",
+    "plutusVersion": "v3",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.1.16+23061c0"
+    },
+    "license": "MIT"
+  },
+  "validators": []
+}
